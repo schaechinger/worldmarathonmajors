@@ -1,0 +1,76 @@
+{
+  "marathons": {
+    "berlin": {
+      "city": "Berlin",
+      "name": "Berlin Marathon",
+      "colors": {
+        "text": "#eec900",
+        "background": "#ffe141"
+      }
+    },
+    "boston": {
+      "city": "Boston",
+      "name": "Boston Marathon",
+      "colors": {
+        "text": "#f1d309",
+        "main": "#ffde00",
+        "background": "#ffe84d"
+      }
+    },
+    "chicago": {
+      "city": "Chicago",
+      "name": "Chicago Marathon",
+      "colors": {
+        "text": "#0094da",
+        "background": "#33bdff"
+      }
+    },
+    "london": {
+      "city": "London",
+      "name": "London Marathon",
+      "colors": {
+        "text": "#e60c2b",
+        "background": "#f64d65"
+      }
+    },
+    "nyc": {
+      "city": "New York",
+      "name": "New York City Marathon",
+      "colors": {
+        "text": "#52b74d",
+        "background": "#86cd82"
+      }
+    },
+    "tokyo": {
+      "city": "Tokio",
+      "name": "東京マラソン",
+      "colors": {
+        "text": "#e1f51d",
+        "main": "#bcce09",
+        "background": "#e5f639"
+      }
+    }
+  },
+  "participations": [
+    {
+      "marathon": "berlin",
+      "date": "2017-09-24",
+      "time": "03:48:10"
+    },
+    {
+      "marathon": "chicago",
+      "date": "2018-10-07",
+      "time": "03:36:31"
+    },
+    {
+      "marathon": "berlin",
+      "date": "2019-09-29",
+      "time": "03:27:28"
+    },
+    {
+      "marathon": "nyc",
+      "date": "2019-11-03",
+      "time": "03:46:56"
+    }
+  ]
+}

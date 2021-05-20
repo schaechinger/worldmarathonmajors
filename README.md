@@ -1,1 +1,1 @@
-# worldmarathonmajors
+# World Marathon Majors
