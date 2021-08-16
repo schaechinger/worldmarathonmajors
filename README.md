@@ -1,6 +1,6 @@
 # World Marathon Majors
 
-The Abbot World Marathon Majors is a series of the six largest city marathons
+The Abbott World Marathon Majors is a series of the six largest city marathons
 in the world.
 
 This repository contains backgrounds and color schemas for picture frames in
